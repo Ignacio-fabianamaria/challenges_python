@@ -8,7 +8,7 @@ minúsculas.'''
 def get_username():
     try:
         while True:
-            username = input('Por favor, insira seu primeiro nome: ').upper()
+            username = input('Por favor, insira seu nome: ').upper()
             if len(username) < 2:
                 print('Por favor, insira um nome com pelo menos 2 caracteres:')
             else:
@@ -19,8 +19,7 @@ def get_username():
 
 def reversed_username():
     username = get_username()
-    username_list = list(username)
-    reversed = ''.join(username_list[::-1])
+    reversed = ''.join(username[::-1])
 
     print(f'O seu nome de trás para frente ficou : {reversed}')
 
