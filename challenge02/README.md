@@ -3,7 +3,7 @@
 
   <summary>Exercícios Tomada de Decisão</summary> <br>
   
- 1️⃣ **Faça um Programa que peça dois números e imprima o maior deles.**
+1️⃣ **Faça um Programa que peça dois números e imprima o maior deles.**
 
 2️⃣ **Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.**
 
