@@ -1,4 +1,9 @@
-##  🏆 Python Challenges - Python Básico e Django
+
+  <h1> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="35" height="35">
+    Python Challenges - Python Básico e Django 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="35" height="35">
+  </h1>
+
 
 ### 📚 Conteúdo programático
 
