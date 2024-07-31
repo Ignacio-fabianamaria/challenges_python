@@ -10,6 +10,10 @@
 Repositório destinado aos exercícios práticos do curso Python Básico da WoMakersCode.
 Os exercícios abordam desde fundamentos básicos até práticas que ajudam a consolidar o conhecimento em Python.
 
+### 🔗 Link da Plataforma
+Para mais informações sobre os cursos oferecidos, acesse a plataforma: <br> [ 🌐 Mais Mulheres Tech](https://www.maismulheres.tech/)
+
+
 ## 📝 🐍 Listas de Exercícios
 
 1. [Conceitos Básicos de Python](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/01-basic_python_concepts)
