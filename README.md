@@ -16,10 +16,12 @@
 
 ## 📝 Listas de Exercícios
 
-1. [Exercícios - Conceitos Básicos de Python](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/challenge01)
-2. [Tomada de Decisão e Estruturas de Repetição](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/challenge02)
-3. [Listas, tuplas e dicionários](https://github.com/Ignacio-fabianamaria/challenges_python/tree/branch_desafio3)
-4. [Funções](https://github.com/Ignacio-fabianamaria/challenges_python/tree/branch_desafio4)
-5. Orientação a Objetos
+1. [Exercícios - Conceitos Básicos de Python](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/01-basic_python_concepts)
+2. [Tomada de Decisão e Estruturas de Repetição](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/02-decision_making_and_loop_dtructures)
+3. [Listas, tuplas e dicionários](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/03-lists_tuples_and_dictionaries)
+4. [Funções](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/04-functions)
+5. [Classes e Objetos](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/05-classes_and_objects)
+6. [Orientação a Objetos](https://github.com/Ignacio-fabianamaria/challenges_python/tree/main/06-object_oriented_programming)
+
 
 
