@@ -1,6 +1,6 @@
 # 📚 Gerenciamento de Biblioteca 📚
 
-## Requisitos
+## 📋 Requisitos
 
 > 💡 Vamos criar um sistema orientado a objetos para representar um sistema de biblioteca seguindo os requisitos abaixo:
 
