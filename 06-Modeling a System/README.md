@@ -9,7 +9,7 @@
 - Clientes mulheres possuem em suas contas um cheque especial de valor igual à sua renda mensal, ou seja, elas podem sacar valores que deixam a sua conta com valor negativo até renda_mensal.
 - Clientes homens por enquanto não têm direito a cheque especial.
 
-> **Observação:** _Para modelar seu sistema, utilize obrigatoriamente os conceitos "classe", "herança", "propriedades", "encapsulamento" e "classe abstrata"._
+> **🖊️Nota:** _Para modelar seu sistema, utilize obrigatoriamente os conceitos "classe", "herança", "propriedades", "encapsulamento" e "classe abstrata"._
 
 ```mermaid
 classDiagram
