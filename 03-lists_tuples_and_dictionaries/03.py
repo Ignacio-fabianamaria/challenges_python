@@ -17,6 +17,7 @@ def student_grade():
                 student_average = (sum(student_grade_list) / len(student_grade_list))
                 grade_list.append(student_average)
                 current_student += 1
+                print(f'Notas do aluno: {student_grade_list} Média do aluno: {student_average}')
         except ValueError as err:
             print(f'Entrada inválida. Detalhes: {err}')
     return grade_list
